@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.0
-Release:	%mkrel 10
+Release:	%mkrel 11
 Summary:	Supplementary trigonometric functions
 License:	PHP License
 Group:		Development/PHP
