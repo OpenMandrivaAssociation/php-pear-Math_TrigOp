@@ -8,7 +8,7 @@ Release:	15
 Summary:	Supplementary trigonometric functions
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Math_TrigOp/
+URL:		https://pear.php.net/package/Math_TrigOp/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
